@@ -3,6 +3,9 @@ CREATE ALERTS LIKE
 ***
 See the latest preview [here](https://notableapp.github.io/Alert/index.html)
 # Getting started
+```html
+<link rel="stylesheet" href="">
+```
 ```javascript
 /* Creating simple alert */
 var bsted = Ted();
@@ -62,7 +65,7 @@ del(e);/*deletes alert*/
 for more information get attributes.json file
 # btns
 btns is Param which creates custom button with there custom click event functions
-```json
+```js
 [
 {
 val:'#button',
@@ -72,3 +75,7 @@ del(e);
 }
 ]
 ```
+|Param|default|type|used for|
+|`val`|undefined|string|buttons value|
+|`fun`|none|function|Triggers on click of button|
+***
