@@ -69,6 +69,9 @@ div.danger[data-ted-type=cent-alert]{
 div.dark.success[data-ted-type=cent-alert]{
    border:1px solid #95ffcc;color:#95ffcc !important;
 }
+div.light.success[data-ted-type=cent-alert]{
+
+				border:1px solid #3a7461;color:#3a7461 !important;}
 div.success[data-ted-type=cent-alert],div.primary[data-ted-type=cent-alert]{
 				animation:snap .5s linear;
 }
