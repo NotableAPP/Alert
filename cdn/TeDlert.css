@@ -91,7 +91,7 @@ div[data-ted-type=fscn-jammer] *{
 }
 @keyframes removal{
 to{
-transform:scale(0.9)
+opacity:0;
 }
 }
 div[data-ted-type=fscn-jammer] *::-webkit-scrollbar{
