@@ -59,3 +59,16 @@ del(e);/*deletes alert*/
 ],
 }
 ```
+for more information get attributes.json file
+# btns
+btns is Param which creates custom button with there custom click event functions
+```json
+[
+{
+val:'#button',
+fun:(e)=>{
+del(e);
+}
+}
+]
+```
