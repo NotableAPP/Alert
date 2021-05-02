@@ -4,7 +4,8 @@ CREATE ALERTS LIKE
 See the latest preview [here](https://notableapp.github.io/Alert/index.html)
 # Getting started
 ```html
-<link rel="stylesheet" href="">
+<link rel="stylesheet" href="https://rawcdn.githack.com/NotableAPP/Alert/ad1d80a15959b5f7357657d3732160cbc6fafc06/cdn/TeDlert.css">
+<script src="https://rawcdn.githack.com/NotableAPP/Alert/ad1d80a15959b5f7357657d3732160cbc6fafc06/cdn/TeDlertmain.js"></script>
 ```
 ```javascript
 /* Creating simple alert */
